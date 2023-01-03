@@ -1,2 +1,3 @@
 Sample file with some text..
-XYZ.txt
+added new text to prq
+This text is added to xyz
