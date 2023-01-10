@@ -1,2 +1,2 @@
-HOST = ISHAN
-ENV = MYENV
+host = ISHAN
+env = MYENV
